@@ -9,7 +9,7 @@
 
 #item1 {
         border: solid 1px greenyellow;
-        height: 50px;
+        height: 20%;
         width: 100%;
         display: flex;
 }
